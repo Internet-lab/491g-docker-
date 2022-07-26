@@ -1,3 +1,7 @@
+Content
+=====
+This repository contains  files for creating a Docker image for a PC to be used in the gns3 version of the Internet Lab. 
+
 Setup
 =====
 In GNS3:
